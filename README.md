@@ -1,7 +1,7 @@
 # Lubuntu Arc-Round Openbox Theme
 
 A small **redesign** of Lubuntu Round Openbox theme included in Lubuntu 20.04, perfect to combine with the Breeze and Arc themes.<br> 
-With respect to the original version, the shape of the icons was changed to smaller ones (similar to the Arc theme) and a version suitable for clear themes was added.
+With respect to the original version, the shape of the icons was changed to smaller ones (similar to the Arc theme) and a version suitable for ligth themes was added.
 
 ## Screenshots
 
