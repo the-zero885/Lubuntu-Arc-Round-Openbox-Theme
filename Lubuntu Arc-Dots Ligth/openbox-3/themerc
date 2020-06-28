@@ -28,14 +28,14 @@ window.active.button.iconify.unpressed.image.color: #f29f4d
 window.active.button.iconify.hover.image.color: #f29f4d
 
 # Max button
-window.active.button.max.unpressed.image.color: #55c835
-window.active.button.max.hover.image.color: #55c835
-window.active.button.max.toggled.unpressed.image.color: #55c835
-window.active.button.max.toggled.hover.image.color: #55c835
+window.active.button.max.unpressed.image.color: #1eacf8
+window.active.button.max.hover.image.color: #1eacf8
+window.active.button.max.toggled.unpressed.image.color: #1eacf8
+window.active.button.max.toggled.hover.image.color: #1eacf8
 
 # Desk button
-window.active.button.desk.unpressed.image.color: #1eacf8
-window.active.button.desk.hover.image.color: #1eacf8
+window.active.button.desk.unpressed.image.color: #96c59a
+window.active.button.desk.hover.image.color: #96c59a
 
 # Shade button colors
 window.active.button.shade.unpressed.image.color: #e16794
